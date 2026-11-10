@@ -1,0 +1,19 @@
+{
+  "title": "Pixel Flow — учебные проекты под ключ",
+  "videoUrl": "/media/pixel-flow-60s.mp4",
+  "posterUrl": "/media/pixel-flow-poster.jpg",
+  "audioUrl": "/media/pixel-flow-theme.mp3",
+  "duration": 60,
+  "width": 720,
+  "height": 1280,
+  "fps": 24,
+  "bytes": 5091935,
+  "audioBytes": 1201154,
+  "language": "ru",
+  "videoCodec": "H.264",
+  "audioCodec": "AAC",
+  "botUrl": "https://t.me/p_f_helperbot",
+  "channelUrl": "https://t.me/pixel_flow_1",
+  "createdAt": "2026-11-10T12:10:22.076Z",
+  "production": "Local procedural motion design, original synthesized score, AI-generated brand illustrations."
+}
